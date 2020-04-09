@@ -51,6 +51,51 @@ ModelImporter:
   - first:
       74: 7381967679020539957
     second: Robot_Yes
+  - first:
+      74: 4088012122274076004
+    second: RobotArmature|Robot_Dance
+  - first:
+      74: 7041140502891758341
+    second: RobotArmature|Robot_Death
+  - first:
+      74: 5203640731701508475
+    second: RobotArmature|Robot_Idle
+  - first:
+      74: 1235756006896609255
+    second: RobotArmature|Robot_Jump
+  - first:
+      74: -7443094161505844905
+    second: RobotArmature|Robot_No
+  - first:
+      74: -7707339829335032518
+    second: RobotArmature|Robot_Punch
+  - first:
+      74: 228084150736018452
+    second: RobotArmature|Robot_RocketFIre
+  - first:
+      74: 6956731860354141293
+    second: RobotArmature|Robot_Running
+  - first:
+      74: -2713106356468855927
+    second: RobotArmature|Robot_Sitting
+  - first:
+      74: 4771832068599170036
+    second: RobotArmature|Robot_Standing
+  - first:
+      74: 2933628500164730807
+    second: RobotArmature|Robot_ThumbsUp
+  - first:
+      74: -2854955482232671311
+    second: RobotArmature|Robot_Walking
+  - first:
+      74: 6575455472056550609
+    second: RobotArmature|Robot_WalkJump
+  - first:
+      74: 916316288878873159
+    second: RobotArmature|Robot_Wave
+  - first:
+      74: 5819538111367799518
+    second: RobotArmature|Robot_Yes
   externalObjects: {}
   materials:
     importMaterials: 1

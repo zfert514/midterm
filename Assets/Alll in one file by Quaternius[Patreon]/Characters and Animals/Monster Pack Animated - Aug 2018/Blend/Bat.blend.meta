@@ -21,6 +21,21 @@ ModelImporter:
   - first:
       74: 5868097364856056665
     second: Bat_Hit
+  - first:
+      74: -4931789197307264134
+    second: BatArmature|Bat_Attack
+  - first:
+      74: 6798196322625840709
+    second: BatArmature|Bat_Attack2
+  - first:
+      74: -5200130379853124148
+    second: BatArmature|Bat_Death
+  - first:
+      74: -8588731844908120542
+    second: BatArmature|Bat_Flying
+  - first:
+      74: 3507104242674810391
+    second: BatArmature|Bat_Hit
   externalObjects: {}
   materials:
     importMaterials: 1

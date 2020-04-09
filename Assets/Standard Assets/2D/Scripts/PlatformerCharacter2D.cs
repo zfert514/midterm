@@ -1,4 +1,5 @@
 using System;
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 namespace UnityStandardAssets._2D
@@ -15,19 +16,23 @@ namespace UnityStandardAssets._2D
         const float k_GroundedRadius = .2f; // Radius of the overlap circle to determine if grounded
         private bool m_Grounded;            // Whether or not the player is grounded.
         private Transform m_CeilingCheck;   // A position marking where to check for ceilings
-        const float k_CeilingRadius = .01f; // Radius of the overlap circle to determine if the player can stand up
+        const float k_CeilingRadius = 1f; // Radius of the overlap circle to determine if the player can stand up
+        private Transform m_Armature;
         private Animator m_Anim;            // Reference to the player's animator component.
         private Rigidbody2D m_Rigidbody2D;
         private bool m_FacingRight = true;  // For determining which way the player is currently facing.
+        private Vector3 direction;
 
         private void Awake()
         {
             // Setting up references.
             m_GroundCheck = transform.Find("GroundCheck");
             m_CeilingCheck = transform.Find("CeilingCheck");
+            m_Armature = transform.Find("Armature");
             m_Anim = GetComponent<Animator>();
             m_Rigidbody2D = GetComponent<Rigidbody2D>();
-        }
+            direction = m_Armature.eulerAngles;
+    }
 
 
         private void FixedUpdate()
@@ -58,11 +63,20 @@ namespace UnityStandardAssets._2D
                 if (Physics2D.OverlapCircle(m_CeilingCheck.position, k_CeilingRadius, m_WhatIsGround))
                 {
                     crouch = true;
+                    m_Grounded = false;
                 }
             }
 
             // Set whether or not the character is crouching in the animator
             m_Anim.SetBool("Crouch", crouch);
+            if (crouch == true)
+            {
+                GetComponent<BoxCollider2D>().enabled = false;
+            }
+            else
+            {
+                GetComponent<BoxCollider2D>().enabled = true;
+            }
 
             //only control the player if grounded or airControl is turned on
             if (m_Grounded || m_AirControl)
@@ -106,9 +120,16 @@ namespace UnityStandardAssets._2D
             m_FacingRight = !m_FacingRight;
 
             // Multiply the player's x local scale by -1.
-            Vector3 theScale = transform.localScale;
-            theScale.x *= -1;
-            transform.localScale = theScale;
+            Vector3 theScale = m_Armature.eulerAngles;
+            if (theScale != direction)
+            {
+                theScale.y -= 90;
+            }
+            else
+            {
+                theScale.y += 90;
+            }
+            m_Armature.eulerAngles = theScale;
         }
     }
 }

@@ -42,6 +42,39 @@ ModelImporter:
   - first:
       74: -7670005837439675293
     second: Man_Walk
+  - first:
+      74: 4523737202199915946
+    second: HumanArmature|Man_Clapping
+  - first:
+      74: -3916294550958455020
+    second: HumanArmature|Man_Death
+  - first:
+      74: 8106746524365628829
+    second: HumanArmature|Man_Idle
+  - first:
+      74: -6398272582352398571
+    second: HumanArmature|Man_Jump
+  - first:
+      74: 4607071556537973139
+    second: HumanArmature|Man_Punch
+  - first:
+      74: 7354251634412414196
+    second: HumanArmature|Man_Run
+  - first:
+      74: 1443013137757961451
+    second: HumanArmature|Man_RunningJump
+  - first:
+      74: -6153676157489181926
+    second: HumanArmature|Man_Sitting
+  - first:
+      74: -9164212156404960148
+    second: HumanArmature|Man_Standing
+  - first:
+      74: 3655391794997471651
+    second: HumanArmature|Man_SwordSlash
+  - first:
+      74: 1555546630585696353
+    second: HumanArmature|Man_Walk
   externalObjects: {}
   materials:
     importMaterials: 1

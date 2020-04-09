@@ -24,6 +24,24 @@ ModelImporter:
   - first:
       74: -6067491887233109208
     second: Stegosaurus_Walk
+  - first:
+      74: 6481880008128093075
+    second: Armature|Stegosaurus_Attack
+  - first:
+      74: 8345993112607817138
+    second: Armature|Stegosaurus_Death
+  - first:
+      74: 2365668113189278568
+    second: Armature|Stegosaurus_Idle
+  - first:
+      74: -8329314530482407579
+    second: Armature|Stegosaurus_Jump
+  - first:
+      74: 781925953941865029
+    second: Armature|Stegosaurus_Run
+  - first:
+      74: -6883705844951173334
+    second: Armature|Stegosaurus_Walk
   externalObjects: {}
   materials:
     importMaterials: 1

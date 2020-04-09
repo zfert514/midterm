@@ -21,6 +21,18 @@ ModelImporter:
   - first:
       74: -3442703146753711090
     second: Snake_Walk
+  - first:
+      74: -2892009125502958671
+    second: SnakeArmature|Snake_Attack
+  - first:
+      74: 2906059970860598011
+    second: SnakeArmature|Snake_Idle
+  - first:
+      74: -7196338715743797531
+    second: SnakeArmature|Snake_Jump
+  - first:
+      74: -8237176021887642799
+    second: SnakeArmature|Snake_Walk
   externalObjects: {}
   materials:
     importMaterials: 1

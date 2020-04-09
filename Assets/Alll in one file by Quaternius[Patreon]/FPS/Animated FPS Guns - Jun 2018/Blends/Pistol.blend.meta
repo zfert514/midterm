@@ -15,6 +15,15 @@ ModelImporter:
   - first:
       74: -1192840080986744117
     second: Slide
+  - first:
+      74: 1988171045948695719
+    second: PistolArmature|Fire
+  - first:
+      74: -2653128793843731477
+    second: PistolArmature|Reload
+  - first:
+      74: -8629809229752072323
+    second: PistolArmature|Slide
   externalObjects: {}
   materials:
     importMaterials: 1

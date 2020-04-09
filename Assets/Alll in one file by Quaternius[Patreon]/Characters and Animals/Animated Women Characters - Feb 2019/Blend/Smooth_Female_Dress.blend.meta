@@ -42,6 +42,39 @@ ModelImporter:
   - first:
       74: -2058620006453812723
     second: Female_Walk
+  - first:
+      74: -1324339039436596633
+    second: HumanArmature|Female_Clapping
+  - first:
+      74: -6609741118087203734
+    second: HumanArmature|Female_Death
+  - first:
+      74: 7003038282533826427
+    second: HumanArmature|Female_Idle
+  - first:
+      74: -1286952744312769332
+    second: HumanArmature|Female_Jump
+  - first:
+      74: 4276485134849322222
+    second: HumanArmature|Female_Punch
+  - first:
+      74: -8800169522339369126
+    second: HumanArmature|Female_Run
+  - first:
+      74: -2498000629041195823
+    second: HumanArmature|Female_RunningJump
+  - first:
+      74: -5183055720578662317
+    second: HumanArmature|Female_Sitting
+  - first:
+      74: 8713042101208410295
+    second: HumanArmature|Female_Standing
+  - first:
+      74: 1576496782917758114
+    second: HumanArmature|Female_SwordSlash
+  - first:
+      74: -4572000871502500860
+    second: HumanArmature|Female_Walk
   externalObjects: {}
   materials:
     importMaterials: 1

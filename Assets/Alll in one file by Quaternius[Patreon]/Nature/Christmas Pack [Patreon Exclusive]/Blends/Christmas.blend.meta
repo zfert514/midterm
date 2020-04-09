@@ -18,6 +18,18 @@ ModelImporter:
   - first:
       74: 2896126140899675064
     second: Walk_001
+  - first:
+      74: -4378839156892544639
+    second: Armature.001|Death.001
+  - first:
+      74: 5232870065568276905
+    second: Armature.001|Idle.001
+  - first:
+      74: 6986864705159609935
+    second: Armature.001|Run.001
+  - first:
+      74: 2188363450422351353
+    second: Armature.001|Walk.001
   externalObjects: {}
   materials:
     importMaterials: 1

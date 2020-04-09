@@ -24,6 +24,24 @@ ModelImporter:
   - first:
       74: 8666389397829063780
     second: Rat_Walk
+  - first:
+      74: 708396462185674498
+    second: RatArmature|Rat_Attack
+  - first:
+      74: -1514178605890810553
+    second: RatArmature|Rat_Death
+  - first:
+      74: 7628754178218877552
+    second: RatArmature|Rat_Idle
+  - first:
+      74: 7346570914391261961
+    second: RatArmature|Rat_Jump
+  - first:
+      74: -5573254151428076804
+    second: RatArmature|Rat_Run
+  - first:
+      74: 7369953533816513705
+    second: RatArmature|Rat_Walk
   externalObjects: {}
   materials:
     importMaterials: 1

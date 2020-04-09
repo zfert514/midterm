@@ -24,6 +24,24 @@ ModelImporter:
   - first:
       74: 3768655084743806977
     second: Velociraptor_Walk
+  - first:
+      74: 4143700261437895409
+    second: Armature|Velociraptor_Attack
+  - first:
+      74: 587044913112085974
+    second: Armature|Velociraptor_Death
+  - first:
+      74: -5871086038374619908
+    second: Armature|Velociraptor_Idle
+  - first:
+      74: 4845060526184193375
+    second: Armature|Velociraptor_Jump
+  - first:
+      74: -5154290312366767704
+    second: Armature|Velociraptor_Run
+  - first:
+      74: 359388479972869541
+    second: Armature|Velociraptor_Walk
   externalObjects: {}
   materials:
     importMaterials: 1

@@ -18,6 +18,12 @@ ModelImporter:
   - first:
       74: -57793324751458776
     second: Wave
+  - first:
+      74: -8945691123924629249
+    second: Armature|Idle
+  - first:
+      74: 5404347575020875500
+    second: Armature|Wave
   externalObjects: {}
   materials:
     importMaterials: 1

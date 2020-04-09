@@ -24,6 +24,24 @@ ModelImporter:
   - first:
       74: -8384255806196936779
     second: TRex_Walk
+  - first:
+      74: -8723934359920534599
+    second: Armature|TRex_Attack
+  - first:
+      74: -1309303606958044107
+    second: Armature|TRex_Death
+  - first:
+      74: -9213415508901047716
+    second: Armature|TRex_Idle
+  - first:
+      74: 5505537181921623897
+    second: Armature|TRex_Jump
+  - first:
+      74: 1692518076318030960
+    second: Armature|TRex_Run
+  - first:
+      74: -1235954696588916024
+    second: Armature|TRex_Walk
   externalObjects: {}
   materials:
     importMaterials: 1

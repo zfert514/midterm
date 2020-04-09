@@ -12,6 +12,12 @@ ModelImporter:
   - first:
       74: 229770723416056496
     second: Reload
+  - first:
+      74: 7020444259776933453
+    second: RevolverArmature|Fire
+  - first:
+      74: -8332817994956877409
+    second: RevolverArmature|Reload
   externalObjects: {}
   materials:
     importMaterials: 1

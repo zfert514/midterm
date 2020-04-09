@@ -24,6 +24,21 @@ ModelImporter:
   - first:
       74: 7181210323926064258
     second: ZombieWalk
+  - first:
+      74: -4071365283672075268
+    second: Zombie|ZombieBite
+  - first:
+      74: 3277375567933014942
+    second: Zombie|ZombieCrawl
+  - first:
+      74: -7089130101838655937
+    second: Zombie|ZombieIdle
+  - first:
+      74: -4714910368162768161
+    second: Zombie|ZombieRun
+  - first:
+      74: 8585225960974154761
+    second: Zombie|ZombieWalk
   externalObjects: {}
   materials:
     importMaterials: 1

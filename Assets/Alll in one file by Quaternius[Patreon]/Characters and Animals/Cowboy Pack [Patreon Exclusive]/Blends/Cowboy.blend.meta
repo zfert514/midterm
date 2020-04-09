@@ -66,6 +66,66 @@ ModelImporter:
   - first:
       74: 4682272426655798542
     second: 9Dodge
+  - first:
+      74: 2534245792732876083
+    second: CowBoyArmature|0Idle
+  - first:
+      74: -4829920352675737995
+    second: CowBoyArmature|10Lift
+  - first:
+      74: -2400356645150628218
+    second: CowBoyArmature|11Point
+  - first:
+      74: 2691741955477159040
+    second: CowBoyArmature|12Dance
+  - first:
+      74: 2759866491322736523
+    second: CowBoyArmature|12Dodge
+  - first:
+      74: 522386908229281999
+    second: CowBoyArmature|12FrontDodge
+  - first:
+      74: -5938383105836652308
+    second: CowBoyArmature|12Jump
+  - first:
+      74: 9159899729585223777
+    second: CowBoyArmature|12RussianDance
+  - first:
+      74: 2015248451184238424
+    second: CowBoyArmature|12Shoot
+  - first:
+      74: 3950503260021202429
+    second: CowBoyArmature|12Shoot2
+  - first:
+      74: -3973306334830847543
+    second: CowBoyArmature|12Standard
+  - first:
+      74: 8947674112582424919
+    second: CowBoyArmature|1Pose
+  - first:
+      74: 7670394453715385481
+    second: CowBoyArmature|2Lift
+  - first:
+      74: 772434864224440143
+    second: CowBoyArmature|3Step
+  - first:
+      74: -7371468887337334504
+    second: CowBoyArmature|4Head
+  - first:
+      74: -2580135444369110295
+    second: CowBoyArmature|5Elbow
+  - first:
+      74: -3103070578884455161
+    second: CowBoyArmature|6Step
+  - first:
+      74: 3558334366166620079
+    second: CowBoyArmature|7Grab
+  - first:
+      74: -5666711938306325239
+    second: CowBoyArmature|8Draw
+  - first:
+      74: 8540754890709064867
+    second: CowBoyArmature|9Dodge
   externalObjects: {}
   materials:
     importMaterials: 1

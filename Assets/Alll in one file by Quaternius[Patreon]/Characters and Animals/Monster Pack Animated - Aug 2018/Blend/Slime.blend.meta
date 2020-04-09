@@ -18,6 +18,18 @@ ModelImporter:
   - first:
       74: 5356576884460427086
     second: Slime_Walk
+  - first:
+      74: 5424966009276265124
+    second: Armature|Slime_Attack
+  - first:
+      74: 4531912406860793044
+    second: Armature|Slime_Death
+  - first:
+      74: 4749002936024538594
+    second: Armature|Slime_Idle
+  - first:
+      74: 6793611496562888960
+    second: Armature|Slime_Walk
   externalObjects: {}
   materials:
     importMaterials: 1

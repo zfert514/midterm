@@ -30,6 +30,30 @@ ModelImporter:
   - first:
       74: 5400940516100251719
     second: Goblin_Walk
+  - first:
+      74: -299582868200142275
+    second: GoblinArmature|Goblin_Attack
+  - first:
+      74: 4820779687235720933
+    second: GoblinArmature|Goblin_Attack2
+  - first:
+      74: -1853353387024214851
+    second: GoblinArmature|Goblin_Death
+  - first:
+      74: 1431247652342271143
+    second: GoblinArmature|Goblin_Idle
+  - first:
+      74: -3391850672243402043
+    second: GoblinArmature|Goblin_Jump
+  - first:
+      74: -3497100402022727089
+    second: GoblinArmature|Goblin_Roll
+  - first:
+      74: -6508582508297835257
+    second: GoblinArmature|Goblin_Run
+  - first:
+      74: -2726612328424070478
+    second: GoblinArmature|Goblin_Walk
   externalObjects: {}
   materials:
     importMaterials: 1

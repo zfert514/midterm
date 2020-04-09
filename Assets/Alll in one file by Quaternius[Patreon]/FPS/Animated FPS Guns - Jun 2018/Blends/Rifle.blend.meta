@@ -15,6 +15,15 @@ ModelImporter:
   - first:
       74: 229770723416056496
     second: Reload
+  - first:
+      74: 4867183349234342624
+    second: RifleArmature|FireWBullet
+  - first:
+      74: -674124312308423321
+    second: RifleArmature|FireWOBullet
+  - first:
+      74: 594796587799018711
+    second: RifleArmature|Reload
   externalObjects: {}
   materials:
     importMaterials: 1

@@ -18,6 +18,18 @@ ModelImporter:
   - first:
       74: 8193193802898941285
     second: Tank_TurningRight
+  - first:
+      74: -6384621366313807642
+    second: TankArmature|Tank_Backwards
+  - first:
+      74: -7005312746027582818
+    second: TankArmature|Tank_Forward
+  - first:
+      74: -2146857197047630551
+    second: TankArmature|Tank_TurningLeft
+  - first:
+      74: -3135528510186901788
+    second: TankArmature|Tank_TurningRight
   externalObjects: {}
   materials:
     importMaterials: 1

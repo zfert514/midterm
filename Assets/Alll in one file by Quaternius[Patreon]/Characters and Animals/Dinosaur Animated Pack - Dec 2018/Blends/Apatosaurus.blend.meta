@@ -24,6 +24,24 @@ ModelImporter:
   - first:
       74: -3787897422102298050
     second: Stegosaurus_Death
+  - first:
+      74: -6978405042771864306
+    second: Armature|Apatosaurus_Attack
+  - first:
+      74: -4752779493917210438
+    second: Armature|Apatosaurus_Idle
+  - first:
+      74: -752982895782295842
+    second: Armature|Apatosaurus_Jump
+  - first:
+      74: -1480900030383675730
+    second: Armature|Apatosaurus_Run
+  - first:
+      74: -6357750857876333677
+    second: Armature|Apatosaurus_Walk
+  - first:
+      74: 8345993112607817138
+    second: Armature|Stegosaurus_Death
   externalObjects: {}
   materials:
     importMaterials: 1

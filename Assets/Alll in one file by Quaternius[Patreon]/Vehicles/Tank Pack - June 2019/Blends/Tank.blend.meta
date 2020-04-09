@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 8618492759471452794
     second: Forward
+  - first:
+      74: -7546568420243944359
+    second: TankArmature|Forward
   externalObjects: {}
   materials:
     importMaterials: 1

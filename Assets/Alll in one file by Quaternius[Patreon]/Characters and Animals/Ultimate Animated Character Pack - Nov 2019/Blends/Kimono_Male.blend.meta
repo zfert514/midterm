@@ -57,6 +57,39 @@ ModelImporter:
   - first:
       74: 5127776884056123511
     second: Walk_Carry
+  - first:
+      74: 1132547922023742953
+    second: CharacterArmature|Defeat
+  - first:
+      74: 9061338213343248790
+    second: CharacterArmature|Idle
+  - first:
+      74: 7022811679865794533
+    second: CharacterArmature|PickUp
+  - first:
+      74: -4592842328519117816
+    second: CharacterArmature|Punch
+  - first:
+      74: -4856542728082765067
+    second: CharacterArmature|RecieveHit
+  - first:
+      74: -5307234019925579384
+    second: CharacterArmature|Shoot_OneHanded
+  - first:
+      74: 228616033308382003
+    second: CharacterArmature|SitDown
+  - first:
+      74: -2488620027461464802
+    second: CharacterArmature|StandUp
+  - first:
+      74: 5008348457023331957
+    second: CharacterArmature|Victory
+  - first:
+      74: -5599002979973759676
+    second: CharacterArmature|Walk
+  - first:
+      74: -2469224417514991532
+    second: CharacterArmature|Walk_Carry
   externalObjects: {}
   materials:
     importMaterials: 1

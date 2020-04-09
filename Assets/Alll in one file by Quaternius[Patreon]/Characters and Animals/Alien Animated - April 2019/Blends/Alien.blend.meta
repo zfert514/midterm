@@ -51,6 +51,48 @@ ModelImporter:
   - first:
       74: 6527001351349641766
     second: Alien_Walk
+  - first:
+      74: -3274914409369782655
+    second: AlienArmature|Alien_Clapping
+  - first:
+      74: -8736256787275654986
+    second: AlienArmature|Alien_Death
+  - first:
+      74: -7748141075663686776
+    second: AlienArmature|Alien_Idle
+  - first:
+      74: -2604211277829214899
+    second: AlienArmature|Alien_IdleHold
+  - first:
+      74: 1746238050501031002
+    second: AlienArmature|Alien_Jump
+  - first:
+      74: 4378269882165330173
+    second: AlienArmature|Alien_Punch
+  - first:
+      74: -8688409714478691138
+    second: AlienArmature|Alien_Run
+  - first:
+      74: -7643137020190769331
+    second: AlienArmature|Alien_RunHold
+  - first:
+      74: -8413363915080089323
+    second: AlienArmature|Alien_RunningJump
+  - first:
+      74: 337945272437151442
+    second: AlienArmature|Alien_Sitting
+  - first:
+      74: 9083232534186857261
+    second: AlienArmature|Alien_Standing
+  - first:
+      74: 3443058093549324974
+    second: AlienArmature|Alien_Swimming
+  - first:
+      74: 3672183695228439527
+    second: AlienArmature|Alien_SwordSlash
+  - first:
+      74: -4958987027140079365
+    second: AlienArmature|Alien_Walk
   externalObjects: {}
   materials:
     importMaterials: 1

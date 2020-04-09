@@ -18,6 +18,18 @@ ModelImporter:
   - first:
       74: 8988309691281059327
     second: Frog_Jump
+  - first:
+      74: -225209104250508164
+    second: FrogArmature|Frog_Attack
+  - first:
+      74: -995099016075344421
+    second: FrogArmature|Frog_Death
+  - first:
+      74: -8700369986558377747
+    second: FrogArmature|Frog_Idle
+  - first:
+      74: -1469770746859098023
+    second: FrogArmature|Frog_Jump
   externalObjects: {}
   materials:
     importMaterials: 1

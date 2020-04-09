@@ -24,6 +24,24 @@ ModelImporter:
   - first:
       74: -5613627656283983842
     second: Triceratops_Walk
+  - first:
+      74: -5005591362783231031
+    second: Armature|Triceratops_Attack
+  - first:
+      74: -2003082395451159932
+    second: Armature|Triceratops_Death
+  - first:
+      74: 5289134713090633407
+    second: Armature|Triceratops_Idle
+  - first:
+      74: -2568141974510586484
+    second: Armature|Triceratops_Jump
+  - first:
+      74: 8011737399226661841
+    second: Armature|Triceratops_Run
+  - first:
+      74: 8014001432420945911
+    second: Armature|Triceratops_Walk
   externalObjects: {}
   materials:
     importMaterials: 1

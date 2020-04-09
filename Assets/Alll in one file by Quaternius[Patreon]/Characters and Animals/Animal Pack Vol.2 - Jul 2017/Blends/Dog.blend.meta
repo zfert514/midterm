@@ -12,6 +12,12 @@ ModelImporter:
   - first:
       74: -1610863427237328480
     second: Walking
+  - first:
+      74: 8947377886680753144
+    second: DogArmature|Idle
+  - first:
+      74: 5709960796966067405
+    second: DogArmature|Walking
   externalObjects: {}
   materials:
     importMaterials: 1

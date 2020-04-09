@@ -12,6 +12,12 @@ ModelImporter:
   - first:
       74: 229770723416056496
     second: Reload
+  - first:
+      74: -382410650019994693
+    second: P90Armature|Fire
+  - first:
+      74: -1407466678795768306
+    second: P90Armature|Reload
   externalObjects: {}
   materials:
     importMaterials: 1

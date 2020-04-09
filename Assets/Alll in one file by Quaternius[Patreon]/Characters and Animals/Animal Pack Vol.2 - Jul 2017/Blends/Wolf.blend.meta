@@ -12,6 +12,12 @@ ModelImporter:
   - first:
       74: -1610863427237328480
     second: Walking
+  - first:
+      74: -3226448040575204656
+    second: WolfArmature|Idle
+  - first:
+      74: -7055130361298753953
+    second: WolfArmature|Walking
   externalObjects: {}
   materials:
     importMaterials: 1

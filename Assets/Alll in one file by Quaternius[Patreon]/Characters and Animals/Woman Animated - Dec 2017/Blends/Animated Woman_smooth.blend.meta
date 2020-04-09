@@ -36,6 +36,36 @@ ModelImporter:
   - first:
       74: -1610863427237328480
     second: Walking
+  - first:
+      74: -982115091633673366
+    second: Armature|Death
+  - first:
+      74: -8945691123924629249
+    second: Armature|Idle
+  - first:
+      74: 1079665108409675491
+    second: Armature|Jump
+  - first:
+      74: -1601028459545087361
+    second: Armature|Jump2
+  - first:
+      74: 3515170952244877179
+    second: Armature|PickUp
+  - first:
+      74: 7549088838577149333
+    second: Armature|Punch
+  - first:
+      74: -3828583913261678786
+    second: Armature|Running
+  - first:
+      74: 7688536495097356562
+    second: Armature|SitIdle
+  - first:
+      74: 1889602709898029310
+    second: Armature|Sitting
+  - first:
+      74: -4274770991410265338
+    second: Armature|Walking
   externalObjects: {}
   materials:
     importMaterials: 1

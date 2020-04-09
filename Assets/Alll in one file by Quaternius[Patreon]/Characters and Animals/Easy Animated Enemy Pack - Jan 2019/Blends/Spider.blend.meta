@@ -21,6 +21,21 @@ ModelImporter:
   - first:
       74: 8375986166197498128
     second: Spider_Walk
+  - first:
+      74: -4882070504084092713
+    second: SpiderArmature|Spider_Attack
+  - first:
+      74: 473902392535601218
+    second: SpiderArmature|Spider_Death
+  - first:
+      74: -2040907462031556859
+    second: SpiderArmature|Spider_Idle
+  - first:
+      74: 3058699746863374707
+    second: SpiderArmature|Spider_Jump
+  - first:
+      74: 224654356079549211
+    second: SpiderArmature|Spider_Walk
   externalObjects: {}
   materials:
     importMaterials: 1

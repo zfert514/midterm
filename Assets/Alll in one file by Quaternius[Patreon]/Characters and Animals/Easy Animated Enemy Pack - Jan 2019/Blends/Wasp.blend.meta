@@ -15,6 +15,15 @@ ModelImporter:
   - first:
       74: 1568955283848941087
     second: Wasp_Flying
+  - first:
+      74: -3754716152416571195
+    second: WaspArmature|Wasp_Attack
+  - first:
+      74: -6333248905437168490
+    second: WaspArmature|Wasp_Death
+  - first:
+      74: 7157218630482531428
+    second: WaspArmature|Wasp_Flying
   externalObjects: {}
   materials:
     importMaterials: 1

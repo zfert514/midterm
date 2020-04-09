@@ -24,6 +24,24 @@ ModelImporter:
   - first:
       74: -416119474089292091
     second: Parasaurolophus_Walk
+  - first:
+      74: -2519411750762977553
+    second: Armature|Parasaurolophus_Attack
+  - first:
+      74: -7599328218847111632
+    second: Armature|Parasaurolophus_Death
+  - first:
+      74: 2370080510497258867
+    second: Armature|Parasaurolophus_Idle
+  - first:
+      74: 989263718039919292
+    second: Armature|Parasaurolophus_Jump
+  - first:
+      74: 1261881600532001486
+    second: Armature|Parasaurolophus_Run
+  - first:
+      74: -4517929548200820678
+    second: Armature|Parasaurolophus_Walk
   externalObjects: {}
   materials:
     importMaterials: 1

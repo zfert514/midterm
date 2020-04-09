@@ -9,6 +9,9 @@ ModelImporter:
   - first:
       74: 5414490534771693905
     second: Swim
+  - first:
+      74: -4086864642940237741
+    second: Armature|Swim
   externalObjects: {}
   materials:
     importMaterials: 1
