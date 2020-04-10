@@ -43,12 +43,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 145232093
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 145232093
+    locked: 0
+  - name: Props
+    uniqueID: 2303306183
+    locked: 0
+  - name: Platforms
+    uniqueID: 2218262197
+    locked: 0
   - name: Gameplay
+    uniqueID: 3848939941
+    locked: 0
+  - name: Character
     uniqueID: 1087635889
     locked: 0

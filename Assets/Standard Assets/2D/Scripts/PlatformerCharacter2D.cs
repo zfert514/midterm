@@ -71,11 +71,11 @@ namespace UnityStandardAssets._2D
             m_Anim.SetBool("Crouch", crouch);
             if (crouch == true)
             {
-                GetComponent<BoxCollider2D>().enabled = false;
+                GetComponent<CapsuleCollider2D>().enabled = false;
             }
             else
             {
-                GetComponent<BoxCollider2D>().enabled = true;
+                GetComponent<CapsuleCollider2D>().enabled = true;
             }
 
             //only control the player if grounded or airControl is turned on
